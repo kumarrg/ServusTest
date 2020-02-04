@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-04T00:35:50 PST" name="Default suite" finished-at="2020-02-04T00:35:51 PST" duration-ms="1372">
+    <groups>
+    </groups>
+    <test started-at="2020-02-04T00:35:50 PST" name="Default test" finished-at="2020-02-04T00:35:51 PST" duration-ms="1372">
+      <class name="servusTest.TestClass">
+        <test-method signature="Test1()[pri:0, instance:servusTest.TestClass@301ec38b]" started-at="2020-02-04T00:35:50 PST" name="Test1" finished-at="2020-02-04T00:35:50 PST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:servusTest.TestClass@301ec38b]" started-at="2020-02-04T00:35:50 PST" name="Test2" finished-at="2020-02-04T00:35:50 PST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:0, instance:servusTest.TestClass@301ec38b]" started-at="2020-02-04T00:35:50 PST" name="Test3" finished-at="2020-02-04T00:35:50 PST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="Test4()[pri:0, instance:servusTest.TestClass@301ec38b]" started-at="2020-02-04T00:35:50 PST" name="Test4" finished-at="2020-02-04T00:35:51 PST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method signature="Test5()[pri:0, instance:servusTest.TestClass@301ec38b]" started-at="2020-02-04T00:35:51 PST" name="Test5" finished-at="2020-02-04T00:35:51 PST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method signature="Test6()[pri:0, instance:servusTest.TestClass@301ec38b]" started-at="2020-02-04T00:35:51 PST" name="Test6" finished-at="2020-02-04T00:35:51 PST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:servusTest.TestClass@301ec38b]" started-at="2020-02-04T00:35:51 PST" name="tearDown" finished-at="2020-02-04T00:35:51 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- servusTest.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
